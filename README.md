@@ -2,8 +2,9 @@
 
 ## Co-authors
 
-Denice van Herwerden, https://github.com/DvHerwerden
-Andriy Rebryk, https://github.com/r3bryk
+Denice van Herwerden, https://github.com/DvHerwerden.
+
+Andriy Rebryk, https://github.com/r3bryk.
 
 ## Description
 
